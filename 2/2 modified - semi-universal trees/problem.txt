@@ -1,0 +1,3 @@
+We already saw unival (universal value) tree.
+But what if there were such thing as semi-unival tree where there're only 2 values
+in a tree.

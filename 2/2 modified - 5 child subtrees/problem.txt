@@ -1,0 +1,2 @@
+In standard problem in node we're giving 1 value and 2 children (left and right)
+But now do it if we're given 1 value and up to five children.
